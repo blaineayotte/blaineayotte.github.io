@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Mack / Personal Website"
+title                    : "Blaine Ayotte"
 title_separator          : "-"
-name                     : &name "Kevin Mack"
-description              : &description "PhD Student and graduate research assistant at Clarkson University"
-url                      : https://mackkv.github.io # the base hostname & protocol for your site g.e. "https://mmistakes.github.io"
+name                     : &name "Blaine Ayotte"
+description              : &description "PhD Student at Clarkson University"
+url                      : https://blaineayotte.github.io # the base hostname & protocol for your site g.e. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Mack"
-  avatar           : "IMG_0536_cropped.jpeg"
-  bio              : "PhD Student and graduate research assistant at Clarkson University"
+  name             : "Blaine Ayotte"
+  avatar           : "website_photo.jpeg"
+  bio              : "PhD Student at Clarkson University"
   location         : "Potsdam, NY"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "mackkv@clarksonl.edu"
+  googlescholar    :  "citations?hl=en&user=5EiAhwMAAAAJ"
+  email            : "ayottebj@clarkson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,12 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mackkv"
+  github           : "blaineayotte"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : kevin-mack-81527b126/
+  linkedin         : blaine-ayotte-644718164/
   orcid            :
   pinterest        :
   soundcloud       :
