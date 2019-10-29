@@ -84,7 +84,7 @@ author:
   avatar           : "website_photo.jpg"
   bio              : "ayottebj@clarkson.edu"
   employer         : "PhD Student at Clarkson University"
-  location         : "Potsdam, NY"
+  location         : #"Potsdam, NY"
   googlescholar    :  "https://scholar.google.com/citations?hl=en&user=5EiAhwMAAAAJ"
   email            : #"ayottebj@clarkson.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
