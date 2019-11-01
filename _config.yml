@@ -233,12 +233,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _demo
   - scope:
       path: ""
-      type: talks
+      type: demo
     values:
-      layout: talk
+      layout: demo
       author_profile: true
       share: true
 
