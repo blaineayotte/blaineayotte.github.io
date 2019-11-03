@@ -9,5 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* B.S. in Physics and Mathematics, St. Lawrence University, 2017
+## Coming Soon
+
+<!-- ## Education -->
+<!-- * B.S. in Physics and Mathematics, St. Lawrence University, 2017 -->
