@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://blaineayotte.githib.io/test.pdf">Download PDF</a>
+<a href="https://blaineayotte.github.io/test.pdf">Download PDF</a>
