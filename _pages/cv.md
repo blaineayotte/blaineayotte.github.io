@@ -11,7 +11,4 @@ redirect_from:
 
 ## Coming Soon
 
-<embed src="https://blaineayotte.github.io/test.pdf">
-Please download the PDF to view it: <a href="https://blaineayotte.github.io/test.pdf">Download PDF
-</a>
-</embed>
+{% include test.pdf %}
