@@ -11,5 +11,7 @@ redirect_from:
 
 ## Coming Soon
 
-<!-- ## Education -->
-<!-- * B.S. in Physics and Mathematics, St. Lawrence University, 2017 -->
+<embed src="https://blaineayotte.github.io/test.pdf">
+Please download the PDF to view it: <a href="https://blaineayotte.github.io/test.pdf">Download PDF
+</a>
+</embed>
