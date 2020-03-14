@@ -1,3 +1,3 @@
 ---
-paperurl: 'http://blaineayotte.github.io/test.pdf'
+CV: 'http://blaineayotte.github.io/test.pdf'
 ---
