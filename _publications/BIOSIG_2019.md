@@ -2,7 +2,7 @@
 title: 'Fast and Accurate Continuous User Authentication by Fusion of Instance-based, Free-text Keystroke Dynamics'
 collection: publications
 permalink: 'https://ieeexplore.ieee.org/abstract/document/8897242'
-date: 2019-06-20
+date: 2019-09-18
 venue: '2019 International Conference of the Biometrics Special Interest Group (BIOSIG)'
 paperurl: 'https://par.nsf.gov/servlets/purl/10136313'
 ---
