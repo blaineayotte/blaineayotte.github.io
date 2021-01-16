@@ -2,7 +2,7 @@
 title: 'Fast Free-text Authentication via Instance-based Keystroke Dynamics'
 collection: publications
 permalink: 'https://ieeexplore.ieee.org/abstract/document/9123909'
-date: 2019-06-20
+date: 2020-08-01
 venue: 'IEEE Transactions on Biometrics, Behavior, and Identity Science'
 paperurl: 'https://arxiv.org/pdf/2006.09337.pdf'
 ---
